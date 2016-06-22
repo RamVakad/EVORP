@@ -1,0 +1,10 @@
+"EVORP"
+{
+"base"		"sandbox"
+    "title"  "EVORP"
+    "menusystem"	"1"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}
